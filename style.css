@@ -1,0 +1,29 @@
+.into{
+    height: 50px;
+    width: 100%;
+    
+}
+.card{
+    border: 0ch;
+}
+.n-coler{
+    color: darkorange;
+}
+.card-footer{
+    background-color: white;
+    border: 0;
+}
+
+
+.into-detale{
+    width: 35%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.into-detale img{
+    width: 100%;
+    margin-top: 10px;
+    height: 350px;
+
+}
